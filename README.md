@@ -28,4 +28,6 @@ This hands-on implementation strengthened my understanding of **cloud security a
 
 output :
 
+![Image](https://github.com/user-attachments/assets/d44ae6cd-abdf-4514-9b6c-f474f6171fe4)
+
 
